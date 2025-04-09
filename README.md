@@ -15,7 +15,7 @@ A modern and responsive restaurant website built with HTML, CSS, JavaScript (Fro
 ### Frontend
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ### Backend
 - Node.js
